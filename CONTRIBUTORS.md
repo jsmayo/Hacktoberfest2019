@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Jesse Mayo
+- Photo: https://avatars2.githubusercontent.com/u/25530494?s=460&v=4
+- Location: NC, USA
+- Bio: NCSU ServiceNow developer (Go Pack🐺🐾)! Also a former full-stack freelancer and chemical engineering supervisor :]!
+- Github: https://github.com/jsmayo
+***
 
